@@ -48,7 +48,7 @@ This will be mostly painless, I promise.
 
 ### 1) Make a custom app
 
-Head over to https://api.slack.com/apps and `Create New App`. Select `From scratch`.
+Head over to https://api.slack.com/apps?new_app=1 and select `From scratch`.
 Give it a name and choose the workspace you'd like to export.
 
 Then, from the `Features` menu on the left, select `OAuth & Permission`. 
